@@ -1,3 +1,4 @@
+psycopg2==2.9.5
 anyio==3.6.1
 async-generator==1.10
 async-timeout==4.0.2
